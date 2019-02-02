@@ -1,0 +1,23 @@
+{
+  "name": "foiltrek-faas-expand-destination",
+  "version": "0.0.1",
+  "description": "Handle pairwise dates, expand and shift destination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpgsantos/foiltrek-faas-expand-destination.git"
+  },
+  "author": "Henrique Pires Goulart dos Santos <hpgsantos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hpgsantos/foiltrek-faas-expand-destination/issues"
+  },
+  "homepage": "https://github.com/hpgsantos/foiltrek-faas-expand-destination#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.9"
+  }
+}
