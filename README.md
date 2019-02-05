@@ -1,7 +1,6 @@
 # foiltrek-faas-expand-destination
 Generate expanded pair dates.
 
-# Ideaah Faas Handle Survey
 
 ### Commands
 
